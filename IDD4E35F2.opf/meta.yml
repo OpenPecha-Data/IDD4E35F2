@@ -1,0 +1,18 @@
+id: IDD4E35F2
+default_language: bo
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:30:49.433221
+last_modified: 2023-01-04 11:30:49.433239
+source_metadata:
+  collections:
+  - Chatral Rinpoche
+  - Works of Tibetan Masters
+bases:
+  '9031':
+    title: Introduction to The Excellent Path of Devotion
+    base_file: 9031.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
